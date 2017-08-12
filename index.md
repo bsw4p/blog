@@ -1,7 +1,3 @@
----
-title: Hello World
----
-
 # Binary Ninja plugin development trick
 
 ## Introduction
